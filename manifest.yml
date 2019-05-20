@@ -1,4 +1,5 @@
 ---
 applications:
 - instances: 1
+  memory: 1G
   path: target/hello-spring-cloud-0.0.1.BUILD-SNAPSHOT.jar
